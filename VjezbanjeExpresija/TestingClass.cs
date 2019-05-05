@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Net.NetworkInformation;
 using System.Text;
@@ -33,6 +35,19 @@ namespace VjezbanjeExpresija
                 Expression.Lambda<Func<int, bool>>(binExp, parExp);
             //return constExp.NodeType;
             return lambda;
+        }
+
+        public static void ArayExample()
+        {
+            int[] ints = new[] {1, 9, 2, 7, 4, 3, 6, 5};
+            IEnumerable<int> result =
+                ints.Where(i => i < 5);
+            List<int> num = new List<int>();
+            foreach (var i in result)
+            {
+               
+               Console.WriteLine(i);
+            }  
         }
     }
 }

@@ -9,6 +9,7 @@ namespace VjezbanjeExpresija
             Console.WriteLine(TestingClass.Test(12, 7));
             Console.WriteLine(TestingClass.BinExp());
             Console.WriteLine(TestingClass.FinalBinExp());
+            TestingClass.ArayExample();
             Console.ReadLine();
         }
     }
