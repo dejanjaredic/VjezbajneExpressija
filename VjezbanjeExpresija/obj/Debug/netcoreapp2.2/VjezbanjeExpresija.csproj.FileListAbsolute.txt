@@ -1,0 +1,11 @@
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\bin\Debug\netcoreapp2.2\VjezbanjeExpresija.deps.json
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\bin\Debug\netcoreapp2.2\VjezbanjeExpresija.runtimeconfig.json
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\bin\Debug\netcoreapp2.2\VjezbanjeExpresija.runtimeconfig.dev.json
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\bin\Debug\netcoreapp2.2\VjezbanjeExpresija.dll
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\bin\Debug\netcoreapp2.2\VjezbanjeExpresija.pdb
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.csprojAssemblyReference.cache
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.csproj.CoreCompileInputs.cache
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.AssemblyInfoInputs.cache
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.AssemblyInfo.cs
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.dll
+D:\asp.net project\VjezbanjeExpresija\VjezbanjeExpresija\obj\Debug\netcoreapp2.2\VjezbanjeExpresija.pdb
